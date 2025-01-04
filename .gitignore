@@ -1,0 +1,45 @@
+# Ignore Unity generated files
+[Dd]ebug/
+[Dd]ebugTest/
+[Dd]ebugSymbols/
+[Dd]ebugLogs/
+*.tmp
+*.bak
+*.swp
+*.suo
+*.user
+*.userprefs
+*.booproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.apk
+*.aab
+
+# Ignore Unity cache folder
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Ignore User settings
+UserSettings/
+
+# Ignore large asset files
+Assets/Map/Track1/Textures/*.psd
+Assets/Map/Track1/Textures/*.png
+
+# Ignore specific file types
+*.log
+*.bak
+*.swp
