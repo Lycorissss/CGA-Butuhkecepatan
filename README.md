@@ -1,4 +1,4 @@
-#  **ButuhKecepatan** 
+# **ButuhKecepatan** 
 
 **ButuhKecepatan** is a thrilling time attack racing game built with Unity 🏎️💨. Challenge yourself to complete the track in the fastest time possible! Perfect for players who love speed and precision, as every second counts in this high-intensity race against the clock ⏱️.
 
@@ -21,4 +21,8 @@ To play **ButuhKecepatan**, follow these steps:
 - **⏸️ Space** – Brake / Drift
 - **↩️ Enter** – Start a race
 - **⏹️ Esc** – Pause / Menu
+
+## 💻 Technologies
+- **Unity** – Game engine
+- **C#** – Programming language
 
